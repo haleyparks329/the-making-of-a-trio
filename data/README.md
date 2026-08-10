@@ -12,3 +12,11 @@ schema. Deterministic candidates are written to
 LLM.
 
 Never commit the source book text or generated excerpts.
+
+## Committed demo provenance
+
+`data/demo/friendship_timeline.demo.json` contains newly written, fictionalized
+demonstration text. Its evidence excerpts are invented for this portfolio
+artifact; they are not copied from the novel or generated from a source-book
+file. Character and chapter references identify the subject of the analysis,
+while the prose remains an original public-safe placeholder.
