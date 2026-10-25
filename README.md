@@ -1,5 +1,7 @@
 # The Making of a Trio
 
+[![CI](https://github.com/haleyparks329/the-making-of-a-trio/actions/workflows/ci.yml/badge.svg)](https://github.com/haleyparks329/the-making-of-a-trio/actions/workflows/ci.yml)
+
 An interactive timeline showing how Harry, Ron, and Hermione become friends
 during the first novel. The timed assessment produced the core local analysis
 pipeline: chapter parsing, explainable interaction retrieval, a stable JSON
